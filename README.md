@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavan-hallur)](https://github.com/pavan-hallur/github-readme-stats)
 <!--
 **pavanhr-tech/pavanhr-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
