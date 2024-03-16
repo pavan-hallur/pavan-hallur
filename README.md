@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Hallur</h1>
 <h3 align="center">Master Student in Computational Sciences in Engineering</h3>
 
-- 🔭 I’m currently working on **Master Thesis: Out of distribution detection for Object Detection**
+- 🔭 I’m currently working on **Master Thesis: Out of distribution detection for Object Detection in traffic domain**
 
 
 <!--
